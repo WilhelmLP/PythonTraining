@@ -1,0 +1,7 @@
+Soy el nuevo textoHolaMundo
+Hola Mundo,
+este archivo se edito desde PythonTamibién se puedeutilizar otro metodollamadoWritelinesHOLA
+MUNDO
+DESDE
+PYTHON
+Amo a Doramu

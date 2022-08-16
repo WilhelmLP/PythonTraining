@@ -1,0 +1,19 @@
+Datos: 	 N# - 5491 		 21/7/2022 - 23:11
+************************************************************
+Items 		 Cant.	Costo Items
+------------------------------------------------------------
+Banderillas		2	$70.0
+Hamburguesas		1	$45.0
+Salchipapas		1	$40.0
+Coca-cola		2	$40.0
+Fresas con crema		1	$30.0
+************************************************************
+Costo de la comida: 			$ 155.0
+Costo de las bebidas: 			$ 40.0
+Costo de los postres: 			$ 30.0
+************************************************************
+Subtotal: 			$ 225.0
+Impuestos: 			$ 36.0
+Total: 			$ 261.0
+************************************************************
+Gracias por su compra, lo esperamos pronto

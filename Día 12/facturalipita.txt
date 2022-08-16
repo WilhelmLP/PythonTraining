@@ -1,0 +1,20 @@
+Datos: 	 N# - 8756 		 31/7/2022 - 0:7
+************************************************************
+Items 		 Cant.	Costo Items
+------------------------------------------------------------
+Banderillas		3	$105.0
+Hamburguesas		1	$45.0
+Platanos		1	$30.0
+Coca-cola		1	$20.0
+Café		1	$15.0
+Gelatina de Queso		1	$30.0
+************************************************************
+Costo de la comida: 			$ 180.0
+Costo de las bebidas: 			$ 35.0
+Costo de los postres: 			$ 30.0
+************************************************************
+Subtotal: 			$ 245.0
+Impuestos: 			$ 39.2
+Total: 			$ 284.2
+************************************************************
+Gracias por su compra, lo esperamos pronto
